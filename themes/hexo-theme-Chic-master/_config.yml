@@ -6,7 +6,7 @@ nav:
   Posts: /archives
   Categories: /category
   Tags: /tag
-  About: /about
+  About: /sobre
 
 # favicon
 favicon: /favicon.ico
@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Luiz Rocha
 
 ### this variable is MarkDown form.
-description: Não podemos resolver problemas usando o mesmo tipo de pensamento ** que usamos quando os criamos. - Albert Einstein.
+description: {% blockquote [Albert Einstein[, source]] [link] [source_link_title] %}Não podemos resolver problemas usando o mesmo tipo de pensamento que usamos quando os criamos{% endblockquote %}
 avatar: /image/perfil.jpg
 
 # main menu navigation
