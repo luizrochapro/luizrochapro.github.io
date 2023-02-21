@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Luiz Rocha
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: "Não podemos resolver problemas usando o mesmo tipo de pensamento ** que usamos quando os criamos." - Albert Einstein.
 avatar: /image/perfil.jpg
 
 # main menu navigation
