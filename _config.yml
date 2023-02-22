@@ -98,7 +98,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: hexo-theme-Chic-master
+##theme: hexo-theme-Chic-master
+##theme: Lemonreds
+##theme: hexo-theme-huxblog-master
+theme: hexo-theme-white-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
