@@ -101,7 +101,9 @@ ignore:
 ##theme: hexo-theme-Chic-master
 ##theme: Lemonreds
 ##theme: hexo-theme-huxblog-master
-theme: hexo-theme-white-master
+#theme: hexo-theme-white-master
+##theme: hexo-theme-hollow-master
+theme: hexo-theme-overdose-master #***
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
